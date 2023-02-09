@@ -2,7 +2,7 @@
 A weather application that provides detailed weather details for a location specified by the user. Built using React and Open Weather API for showing latest weather data.
 
 ### Demo - Deployed over Github Pages 
-https://Keertijanm.github.io/weather-web
+
 
 
 ### APIs Used
