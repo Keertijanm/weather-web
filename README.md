@@ -4,6 +4,11 @@ A weather application that provides detailed weather details for a location spec
 ### Demo - Deployed over Github Pages 
 
 
+https://user-images.githubusercontent.com/81510729/219851820-0f068743-d043-4179-bb21-50a508b419a5.mp4
+
+
+
+
 
 ### APIs Used
 [Open Weather APIs](https://openweathermap.org/)
